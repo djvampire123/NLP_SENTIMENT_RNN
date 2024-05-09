@@ -40,6 +40,7 @@ Train the RNN using the pretrained embeddings from Word2Vec or FastText. Evaluat
 Performance Visualization
 Below is the performance visualization of the model:
 
+![Graph](download.png)
 
 Contributing
 Contributions are welcome! Here are some ways you can contribute:
